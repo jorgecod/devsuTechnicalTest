@@ -1,0 +1,6 @@
+.modal-footer-container {
+  display: flex;
+  gap: 5%;
+  justify-content: flex-end;
+  margin-top: 32px;
+}

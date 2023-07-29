@@ -1,0 +1,20 @@
+.three-dots-button {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.three-dots-button:hover {
+  background-color: #d6d2d2dc;
+}
+
+.three-dots-button span {
+  background-color: #000;
+  display: block;
+  margin: 2px;
+  width: 4px;
+  height: 4px;
+}

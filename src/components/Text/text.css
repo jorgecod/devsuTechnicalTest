@@ -1,0 +1,30 @@
+/* Size */
+.text-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text-subtitle {
+  font-size: 18px;
+}
+
+.text-normal {
+  font-size: 14px;
+}
+
+.text-small {
+  font-size: 12px;
+}
+
+/* Colors */
+.text-primary {
+  color: #0F265C;
+}
+
+.text-secondary {
+  color: #6c757d;
+}
+
+.text-error {
+  color: #dc3545;
+}

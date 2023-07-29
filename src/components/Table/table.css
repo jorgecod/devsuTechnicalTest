@@ -1,0 +1,30 @@
+.table-container {
+  background-color: #fff;
+  margin: 32px 0;
+  padding: 32px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+.table thead th {
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.table tbody td {
+  border-bottom: 1px solid #ccc;
+  padding: 8px;
+}
+
+.table-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24px;
+}
